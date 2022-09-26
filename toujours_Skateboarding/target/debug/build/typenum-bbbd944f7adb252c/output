@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/maximelestage/Documents/Rust_lang/toujours_Skateboarding/target/debug/build/typenum-bbbd944f7adb252c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/maximelestage/Documents/Rust_lang/toujours_Skateboarding/target/debug/build/typenum-bbbd944f7adb252c/out/op.rs
